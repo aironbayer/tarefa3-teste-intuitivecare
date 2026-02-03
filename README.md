@@ -269,5 +269,5 @@ A utilização de CTEs foi escolhida em detrimento de subqueries aninhadas por m
 
 A Tarefa 3 foi executada de forma integral e rigorosa, contemplando modelagem adequada, importação controlada, testes de integridade, tratamento consciente de inconsistências e análises analíticas avançadas. Todas as decisões técnicas foram fundamentadas considerando precisão, desempenho, clareza e uso futuro, refletindo boas práticas de engenharia de dados e análise SQL.
 
-Desenvolvido para: Processo Seletivo IntuitiveCare 2026 Data: Janeiro 2025 Linguagem: SQL Status: ✅ Pronto para produção
+Desenvolvido para: Processo Seletivo IntuitiveCare 2026 Data: Fevereiro 2025 Linguagem: SQL Status: ✅ Pronto para produção
 
